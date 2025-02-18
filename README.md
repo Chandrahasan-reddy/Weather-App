@@ -7,7 +7,7 @@ Displays temperature, humidity, wind speed, and weather description.
 Uses OpenWeather API for real-time data.
 Responsive and modern UI design.
 
- Technologies Used:
+Technologies Used:
 HTML for structuring the webpage.
 CSS for styling and UI design.
 JavaScript for API calls and dynamic content updates.
